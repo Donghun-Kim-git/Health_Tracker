@@ -1,0 +1,7 @@
+{
+  "env": {
+    "MONGO_USER": "ddong3525",
+    "MONGO_PASSWORD": "roukalam48",
+    "MONGO_DB": "health-tracker"
+  }
+}

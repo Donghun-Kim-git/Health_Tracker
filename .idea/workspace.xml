@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e18847b7-67ed-4e28-9911-784c92a64742" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/Modal/Alert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/Modal/Modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/Navigation/MainNavigation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/Spinner/Spinner.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/Workouts/WorkoutTable.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/Workouts/WorkoutTable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/context/auth-context.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/pages/Auth.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/pages/Auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/pages/Diet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/pages/EditProfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/pages/MainPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/pages/Workout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/public/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/frontend" />
+  </component>
+  <component name="ProjectId" id="1fGh427v5QnqtX90fyKkvrdliOa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/frontend/src/components/Workouts" />
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/frontend/src/pages" />
+      <recent name="$PROJECT_DIR$/backend" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.workout.js">
+    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/backend/app.js" working-dir="$PROJECT_DIR$/backend">
+      <method v="2" />
+    </configuration>
+    <configuration name="workout.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/backend/graphql/resolvers/workout.js" working-dir="$PROJECT_DIR$/backend/graphql/resolvers">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.workout.js" />
+        <item itemvalue="Node.js.app.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e18847b7-67ed-4e28-9911-784c92a64742" name="Default Changelist" comment="" />
+      <created>1595850142113</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595850142113</updated>
+      <workItem from="1595850144679" duration="3421000" />
+      <workItem from="1595920956468" duration="7688000" />
+      <workItem from="1595987026439" duration="4218000" />
+      <workItem from="1596264916662" duration="11960000" />
+      <workItem from="1596381131297" duration="3951000" />
+      <workItem from="1596442531906" duration="6372000" />
+      <workItem from="1596542533152" duration="5421000" />
+      <workItem from="1596587522299" duration="5001000" />
+      <workItem from="1596714950708" duration="5485000" />
+      <workItem from="1596788054703" duration="520000" />
+      <workItem from="1597130376252" duration="205000" />
+      <workItem from="1597645860362" duration="18495000" />
+      <workItem from="1597916606930" duration="49471000" />
+      <workItem from="1598153821820" duration="7416000" />
+      <workItem from="1598167226791" duration="825000" />
+      <workItem from="1598180225390" duration="237000" />
+      <workItem from="1598374549783" duration="232000" />
+      <workItem from="1598952126323" duration="389000" />
+      <workItem from="1598977789752" duration="5694000" />
+      <workItem from="1599023657673" duration="39000" />
+      <workItem from="1599152968872" duration="3287000" />
+      <workItem from="1600929660338" duration="100000" />
+      <workItem from="1602641053449" duration="414000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1792" y="-602" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595941685154">
+      <screen x="1792" y="-609" width="1920" height="1080" />
+    </state>
+    <state x="1792" y="-602" key="#com.intellij.execution.impl.EditConfigurationsDialog/1792.-609.1920.1080/0.0.1792.1120@1792.-609.1920.1080" timestamp="1595941685154" />
+    <state x="-1266" y="-405" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598021442387">
+      <screen x="-1920" y="-752" width="1920" height="1080" />
+    </state>
+    <state x="-1266" y="-405" key="#com.intellij.fileTypes.FileTypeChooser/-1920.-752.1920.1080/-1590.328.1194.834/0.0.1792.1120@-1920.-752.1920.1080" timestamp="1598021442387" />
+    <state x="610" y="360" key="#com.intellij.fileTypes.FileTypeChooser/1792.-609.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1596498195342" />
+    <state x="-1222" y="-394" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598001091347">
+      <screen x="-1920" y="-688" width="1920" height="1080" />
+    </state>
+    <state x="-1222" y="-394" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.-688.1920.1080/-1492.392.1116.756/0.0.1792.1120@-1920.-688.1920.1080" timestamp="1598001091347" />
+    <state width="1771" height="313" key="GridCell.Tab.0.bottom" timestamp="1596346095019">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="313" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1596346095019" />
+    <state width="1771" height="313" key="GridCell.Tab.0.center" timestamp="1596346095018">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="313" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1596346095018" />
+    <state width="1771" height="313" key="GridCell.Tab.0.left" timestamp="1596346095017">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="313" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1596346095017" />
+    <state width="1771" height="313" key="GridCell.Tab.0.right" timestamp="1596346095018">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="313" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1596346095018" />
+    <state x="404" y="-901" key="SettingsEditor" timestamp="1595850449665">
+      <screen x="-65" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="404" y="-901" key="SettingsEditor/-65.-1080.1920.1080/0.0.1792.1120@-65.-1080.1920.1080" timestamp="1595850449665" />
+    <state x="-1159" y="-309" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598094451846">
+      <screen x="-1920" y="-729" width="1920" height="1057" />
+    </state>
+    <state x="-1159" y="-231" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.-665.1920.1057/-1492.415.1116.733/0.23.1792.1097@-1920.-665.1920.1057" timestamp="1597678161467" />
+    <state x="-1159" y="-231" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.-688.1920.1080/-1492.392.1116.756/0.0.1792.1120@-1920.-688.1920.1080" timestamp="1597678102526" />
+    <state x="-1159" y="-309" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.-729.1920.1057/-1590.351.1194.811/0.23.1792.1097@-1920.-729.1920.1057" timestamp="1598094451846" />
+    <state x="476" y="371" width="640" height="749" key="dock-window-1" timestamp="1595987439789">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="1207" y="-1057" width="640" height="1057" key="dock-window-1/-73.-1057.1920.1057/-1116.387.1116.733/0.23.1792.1097@-73.-1057.1920.1057" timestamp="1595941728773" />
+    <state x="476" y="371" width="640" height="749" key="dock-window-1/0.23.1792.1097@0.23.1792.1097" timestamp="1595987439789" />
+    <state x="3072" y="-586" width="640" height="1057" key="dock-window-1/1792.-586.1920.1057/0.23.1792.1097@1792.-586.1920.1057" timestamp="1595940014787" />
+    <state x="3072" y="-614" width="640" height="1057" key="dock-window-1/1792.-614.1920.1057/2180.466.1116.733/0.23.1792.1097@1792.-614.1920.1057" timestamp="1595945340594" />
+    <state x="183" y="118" width="1116" height="733" key="dock-window-2" timestamp="1595986930711">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="-73" y="-1057" width="640" height="1057" key="dock-window-2/-73.-1057.1920.1057/-1116.387.1116.733/0.23.1792.1097@-73.-1057.1920.1057" timestamp="1595941728775" />
+    <state x="183" y="118" width="1116" height="733" key="dock-window-2/0.23.1792.1097@0.23.1792.1097" timestamp="1595986930711" />
+    <state x="2432" y="-586" width="640" height="1057" key="dock-window-2/1792.-586.1920.1057/0.23.1792.1097@1792.-586.1920.1057" timestamp="1595940014788" />
+    <state x="2185" y="466" width="1099" height="733" maximized="true" key="dock-window-2/1792.-614.1920.1057/2180.466.1116.733/0.23.1792.1097@1792.-614.1920.1057" timestamp="1595942547897" />
+    <state x="-1296" y="-121" key="run.anything.popup" timestamp="1598163457594">
+      <screen x="-1920" y="-752" width="1920" height="1080" />
+    </state>
+    <state x="-1296" y="-121" key="run.anything.popup/-1920.-752.1920.1080/-1590.328.1194.834/0.0.1792.1120@-1920.-752.1920.1080" timestamp="1598163457594" />
+  </component>
+</project>
